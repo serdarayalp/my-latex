@@ -1,0 +1,7 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {1}Einleitung}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Motivation}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Kontext}{3}{}%
+\contentsline {subsubsection}{\numberline {1.2.1}Hinweise}{3}{}%
+\contentsline {section}{\numberline {2}Theoretische Grundlagen}{4}{}%
+\contentsline {section}{\numberline {3}Zitate und Literaturverzeichnis}{6}{}%

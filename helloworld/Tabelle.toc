@@ -1,0 +1,9 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {1}Aufzählungen}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Typen}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Besondere Aufzählungen}{2}{}%
+\contentsline {subsection}{\numberline {1.3}Verschachtelte Aufzählungen}{2}{}%
+\contentsline {section}{\numberline {2}Tabellen}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Breite für Spalten festlegen}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Legende in der Tabelle}{5}{}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
